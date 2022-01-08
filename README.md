@@ -42,5 +42,4 @@
 - Expense Tracker [web](https://expense-tracker-masoud.herokuapp.com/) / [code](https://github.com/massam89/React/tree/master/week2/react-exercises/src/codeAlong-expense-tracket.js)
 - Video Player [web](https://practical-lamarr-03660f.netlify.app/) / [code](https://github.com/massam89/React/tree/master/week3/video-player)
 - Covid-19 [web](https://condescending-wiles-31ee9e.netlify.app/) / [code](https://github.com/massam89/React/tree/master/week4/covid-19)
-- Covid-19 [web](https://condescending-wiles-31ee9e.netlify.app/) / [code](https://github.com/massam89/React/tree/master/week4/covid-19)
 - HackYourWeather [web](https://goofy-panini-0f6c3f.netlify.app/) / [code](https://github.com/massam89/React)
