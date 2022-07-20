@@ -12,7 +12,7 @@
 - Temp Converter [web](https://massam89.github.io/JavaScript1/Week2/homework/Masoud/tempConverter/) / [code](https://github.com/massam89/JavaScript1/tree/master/Week2/homework/Masoud/tempConverter)
 - Meditation App [web](https://massam89.github.io/JavaScript1/Week3/homework/Masoud/meditationApp/) / [code](https://github.com/massam89/JavaScript1/tree/master/Week3/homework/Masoud/meditationApp)
 - Meditation App [web](https://massam89.github.io/JavaScript1/Week3/homework/Masoud/meditationApp/) / [code](https://github.com/massam89/JavaScript1/tree/master/Week3/homework/Masoud/meditationApp)
-- Credit Card Validator [code](https://github.com/massam89/JavaScript1/tree/master/Week3/homework/Masoud/creditCardValidator)
+- Credit Card Validator [web](https://massam89.github.io/JavaScript1/Week3/homework/Masoud/creditCardValidator/) /  [code](https://github.com/massam89/JavaScript1/tree/master/Week3/homework/Masoud/creditCardValidator)
 
 ## JavaScript2 [(code)](https://github.com/massam89/JavaScript2)
 
